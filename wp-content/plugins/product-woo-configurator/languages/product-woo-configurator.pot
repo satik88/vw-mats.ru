@@ -1,0 +1,1157 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: the-ocean\n"
+"POT-Creation-Date: 2019-04-29 15:59+0530\n"
+"PO-Revision-Date: 2018-09-20 12:16+0530\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.2\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-KeywordsList: __;_e;_n;esc_html__;esc_html_e\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: ../includes/admin/class-option-fields.php:163
+msgid "active"
+msgstr ""
+
+#: ../includes/admin/class-option-fields.php:167
+#: ../includes/admin/settings-page/license.php:38
+msgid "Deactivate License"
+msgstr ""
+
+#: ../includes/admin/class-option-fields.php:171
+#: ../includes/admin/settings-page/license.php:32
+#: ../includes/admin/settings-page/license.php:41
+msgid "Activate License"
+msgstr ""
+
+#: ../includes/admin/class-pwc-configuration-settings-backup.php:40
+#: ../includes/admin/class-pwc-configuration-settings-backup.php:1077
+#: ../includes/admin/class-pwc-configuration-settings.php:40
+#: ../includes/admin/class-pwc-configuration-settings.php:986
+#: ../includes/admin/class-pwc-configuration-settings.php:1052
+#: ../includes/pwc-woo-actions-filters.php:272
+#: ../includes/pwc-woo-actions-filters.php:322
+#: ../includes/shortcodes/__class-pwc-config-elements.php:151
+#: ../includes/shortcodes/__class-pwc-config-elements.php:1068
+msgid "Front"
+msgstr ""
+
+#: ../includes/admin/class-pwc-configuration-settings-backup.php:58
+#: ../includes/admin/class-pwc-configuration-settings.php:58
+msgid "Selected Layers"
+msgstr ""
+
+#: ../includes/admin/class-pwc-configuration-settings-backup.php:62
+#: ../includes/admin/class-pwc-configuration-settings.php:62
+msgid "No Layer Selected"
+msgstr ""
+
+#: ../includes/admin/class-pwc-configuration-settings-backup.php:63
+#: ../includes/admin/class-pwc-configuration-settings.php:63
+msgid "Add / Edit"
+msgstr ""
+
+#: ../includes/admin/class-pwc-configuration-settings-backup.php:64
+#: ../includes/admin/class-pwc-configuration-settings.php:64
+msgid "Remove Image"
+msgstr ""
+
+#: ../includes/admin/class-pwc-configuration-settings-backup.php:65
+#: ../includes/admin/class-pwc-configuration-settings.php:65
+msgid "Lock / Unlock"
+msgstr ""
+
+#: ../includes/admin/class-pwc-configuration-settings-backup.php:81
+#: ../includes/admin/class-pwc-configuration-settings.php:81
+msgid "Add / Remove Hotspot"
+msgstr ""
+
+#: ../includes/admin/class-pwc-configuration-settings-backup.php:116
+#: ../includes/admin/class-pwc-configuration-settings.php:116
+msgid "Align Left"
+msgstr ""
+
+#: ../includes/admin/class-pwc-configuration-settings-backup.php:117
+#: ../includes/admin/class-pwc-configuration-settings.php:117
+msgid "Align Center"
+msgstr ""
+
+#: ../includes/admin/class-pwc-configuration-settings-backup.php:118
+#: ../includes/admin/class-pwc-configuration-settings.php:118
+msgid "Align Right"
+msgstr ""
+
+#: ../includes/admin/class-pwc-configuration-settings-backup.php:123
+#: ../includes/admin/class-pwc-configuration-settings.php:123
+msgid "Align Top"
+msgstr ""
+
+#: ../includes/admin/class-pwc-configuration-settings-backup.php:124
+#: ../includes/admin/class-pwc-configuration-settings.php:124
+msgid "Align Middle"
+msgstr ""
+
+#: ../includes/admin/class-pwc-configuration-settings-backup.php:125
+#: ../includes/admin/class-pwc-configuration-settings.php:125
+msgid "Align Bottom"
+msgstr ""
+
+#: ../includes/admin/class-pwc-configuration-settings-backup.php:235
+#: ../includes/admin/class-pwc-configuration-settings.php:235
+msgid "Controls"
+msgstr ""
+
+#: ../includes/admin/class-pwc-configuration-settings-backup.php:258
+#: ../includes/admin/class-pwc-configuration-settings.php:258
+msgid "Layers"
+msgstr ""
+
+#: ../includes/admin/class-pwc-configuration-settings-backup.php:315
+#: ../includes/admin/class-pwc-configuration-settings-backup.php:949
+#: ../includes/admin/class-pwc-configuration-settings.php:315
+#: ../includes/admin/class-pwc-configuration-settings.php:915
+msgid "Add"
+msgstr ""
+
+#: ../includes/admin/class-pwc-configuration-settings-backup.php:316
+#: ../includes/admin/class-pwc-configuration-settings-backup.php:957
+#: ../includes/admin/class-pwc-configuration-settings.php:316
+#: ../includes/admin/class-pwc-configuration-settings.php:923
+msgid "Delete"
+msgstr ""
+
+#: ../includes/admin/class-pwc-configuration-settings-backup.php:318
+#: ../includes/admin/class-pwc-configuration-settings.php:318
+msgid "Save"
+msgstr ""
+
+#: ../includes/admin/class-pwc-configuration-settings-backup.php:579
+#: ../includes/admin/class-pwc-configuration-settings.php:570
+msgid "Group"
+msgstr ""
+
+#: ../includes/admin/class-pwc-configuration-settings-backup.php:758
+#: ../includes/admin/class-pwc-configuration-settings.php:739
+msgid "New Parent"
+msgstr ""
+
+#: ../includes/admin/class-pwc-configuration-settings-backup.php:984
+#: ../includes/admin/class-pwc-configuration-settings.php:952
+msgid "Select Product"
+msgstr ""
+
+#: ../includes/admin/class-pwc-configuration-settings-backup.php:996
+#: ../includes/admin/class-pwc-configuration-settings.php:964
+msgid "Choose Product"
+msgstr ""
+
+#: ../includes/admin/class-pwc-configuration-settings-backup.php:1003
+#: ../includes/admin/class-pwc-configuration-settings.php:971
+#: ../includes/editor/shortcodes/pwc_config_price.php:26
+#: ../includes/kc/shortcodes/product-config-price/index.php:48
+#: ../includes/pwc-woo-actions-filters.php:154
+#: ../includes/shortcodes/__class-pwc-config-elements.php:455
+#: ../includes/shortcodes/_element-config-price.php:38
+msgid "Base Price"
+msgstr ""
+
+#: ../includes/admin/class-pwc-configuration-settings-backup.php:1009
+#: ../includes/admin/class-pwc-configuration-settings-backup.php:1631
+#: ../includes/admin/class-pwc-configuration-settings.php:977
+#: ../includes/admin/class-pwc-configuration-settings.php:1502
+msgid "Enter Short Description"
+msgstr ""
+
+#: ../includes/admin/class-pwc-configuration-settings-backup.php:1015
+#: ../includes/admin/class-pwc-configuration-settings.php:983
+msgid "Add View"
+msgstr ""
+
+#: ../includes/admin/class-pwc-configuration-settings-backup.php:1035
+#: ../includes/admin/class-pwc-configuration-settings-backup.php:1630
+#: ../includes/admin/class-pwc-configuration-settings.php:1008
+#: ../includes/admin/class-pwc-configuration-settings.php:1501
+msgid "Description"
+msgstr ""
+
+#: ../includes/admin/class-pwc-configuration-settings-backup.php:1044
+#: ../includes/admin/class-pwc-configuration-settings-backup.php:1643
+#: ../includes/admin/class-pwc-configuration-settings.php:1017
+#: ../includes/admin/class-pwc-configuration-settings.php:1514
+msgid "Price"
+msgstr ""
+
+#: ../includes/admin/class-pwc-configuration-settings-backup.php:1583
+#: ../includes/admin/class-pwc-configuration-settings.php:1454
+msgid "Options"
+msgstr ""
+
+#: ../includes/admin/class-pwc-configuration-settings-backup.php:1588
+#: ../includes/admin/class-pwc-configuration-settings.php:1459
+msgid "Choose Icon"
+msgstr ""
+
+#: ../includes/admin/class-pwc-configuration-settings-backup.php:1589
+#: ../includes/admin/class-pwc-configuration-settings.php:1460
+msgid "Choose an Image"
+msgstr ""
+
+#: ../includes/admin/class-pwc-configuration-settings-backup.php:1598
+#: ../includes/admin/class-pwc-configuration-settings.php:1469
+msgid "Icon"
+msgstr ""
+
+#: ../includes/admin/class-pwc-configuration-settings-backup.php:1604
+#: ../includes/admin/class-pwc-configuration-settings.php:1475
+msgid "Product Image"
+msgstr ""
+
+#: ../includes/admin/class-pwc-configuration-settings-backup.php:1605
+#: ../includes/admin/class-pwc-configuration-settings.php:1476
+msgid "Choose product images all four sides"
+msgstr ""
+
+#: ../includes/admin/class-pwc-configuration-settings-backup.php:1652
+msgid "Default"
+msgstr ""
+
+#: ../includes/admin/class-pwc-configuration-settings-backup.php:1658
+msgid "Mark as default?"
+msgstr ""
+
+#: ../includes/admin/class-pwc-configuration-settings-backup.php:1665
+#: ../includes/admin/class-pwc-configuration-settings.php:1536
+#: ../includes/admin/settings-page/license.php:36
+msgid "Active"
+msgstr ""
+
+#: ../includes/admin/class-pwc-configuration-settings-backup.php:1670
+#: ../includes/admin/class-pwc-configuration-settings.php:1541
+msgid "Active on load?"
+msgstr ""
+
+#: ../includes/admin/class-pwc-configuration-settings-backup.php:1677
+#: ../includes/admin/class-pwc-configuration-settings.php:1548
+msgid "Multiple"
+msgstr ""
+
+#: ../includes/admin/class-pwc-configuration-settings-backup.php:1682
+#: ../includes/admin/class-pwc-configuration-settings.php:1553
+msgid "Allow Multiple selection?"
+msgstr ""
+
+#: ../includes/admin/class-pwc-configuration-settings-backup.php:1689
+#: ../includes/admin/class-pwc-configuration-settings.php:1560
+msgid "Required"
+msgstr ""
+
+#: ../includes/admin/class-pwc-configuration-settings-backup.php:1695
+#: ../includes/admin/class-pwc-configuration-settings.php:1566
+msgid "Is this Required?"
+msgstr ""
+
+#: ../includes/admin/class-pwc-configuration-settings-backup.php:1707
+msgid "Group Views"
+msgstr ""
+
+#: ../includes/admin/class-pwc-configuration-settings-backup.php:1716
+msgid "Hide Configurations"
+msgstr ""
+
+#: ../includes/admin/class-pwc-configuration-settings-backup.php:1722
+msgid "Hide configurator preview?"
+msgstr ""
+
+#: ../includes/admin/class-pwc-configuration-settings-backup.php:1729
+msgid "Control Style"
+msgstr ""
+
+#: ../includes/admin/class-pwc-configuration-settings-backup.php:1734
+msgid "Icon View"
+msgstr ""
+
+#: ../includes/admin/class-pwc-configuration-settings-backup.php:1735
+msgid "Grid View"
+msgstr ""
+
+#: ../includes/admin/class-pwc-configuration-settings.php:1523
+msgid "Hide Control"
+msgstr ""
+
+#: ../includes/admin/class-pwc-configuration-settings.php:1529
+msgid "Hide this and child layers in controls"
+msgstr ""
+
+#: ../includes/admin/class-pwc-menus.php:38
+#: ../includes/admin/class-pwc-menus.php:39
+msgid "Settings"
+msgstr ""
+
+#: ../includes/admin/class-pwc-menus.php:54
+msgid "Welcome to WP Configurator!"
+msgstr ""
+
+#: ../includes/admin/class-pwc-menus.php:55
+msgid ""
+"Thank you for using WooCommerce Configurator. If you need help or have any "
+"suggestions, please contact us."
+msgstr ""
+
+#: ../includes/admin/class-pwc-menus.php:61
+msgid "General"
+msgstr ""
+
+#: ../includes/admin/class-pwc-menus.php:62
+msgid "License"
+msgstr ""
+
+#: ../includes/admin/class-pwc-menus.php:63
+msgid "Addons"
+msgstr ""
+
+#: ../includes/admin/class-pwc-menus.php:64
+msgid "Developer Guide"
+msgstr ""
+
+#: ../includes/admin/class-pwc-menus.php:65
+msgid "FAQ"
+msgstr ""
+
+#: ../includes/admin/class-pwc-menus.php:66
+msgid "Change Log"
+msgstr ""
+
+#: ../includes/admin/class-pwc-metabox.php:50
+msgid "Configuration Settings"
+msgstr ""
+
+#: ../includes/admin/class-pwc-metabox.php:178
+msgid "Created Successfully"
+msgstr ""
+
+#: ../includes/admin/class-pwc-metabox.php:184
+msgid "Please type the inspiration name"
+msgstr ""
+
+#: ../includes/admin/class-pwc-metabox.php:187
+msgid "Please type the group name"
+msgstr ""
+
+#: ../includes/admin/class-pwc-metabox.php:204
+msgid "Overwrite Successfully"
+msgstr ""
+
+#: ../includes/admin/class-pwc-metabox.php:209
+#: ../includes/admin/class-pwc-metabox.php:230
+msgid "Please choose the item to replace"
+msgstr ""
+
+#: ../includes/admin/class-pwc-metabox.php:225
+msgid "Update Successfully"
+msgstr ""
+
+#: ../includes/admin/class-pwc-metabox.php:245
+msgid "Deleted Successfully"
+msgstr ""
+
+#: ../includes/admin/class-pwc-metabox.php:250
+msgid "Please choose the item to delete"
+msgstr ""
+
+#: ../includes/admin/class-pwc-metabox.php:266
+msgid "Group Deleted Successfully"
+msgstr ""
+
+#: ../includes/admin/class-pwc-metabox.php:271
+msgid "Please choose the group to delete"
+msgstr ""
+
+#: ../includes/admin/class-pwc-metabox.php:332
+#: ../includes/shortcodes/__class-pwc-config-elements.php:723
+msgid "Select"
+msgstr ""
+
+#: ../includes/admin/class-pwc-post-types.php:44
+msgid "Categories"
+msgstr ""
+
+#: ../includes/admin/class-pwc-post-types.php:45
+msgid "Category"
+msgstr ""
+
+#: ../includes/admin/class-pwc-post-types.php:71
+msgid "Configurators"
+msgstr ""
+
+#: ../includes/admin/class-pwc-post-types.php:72
+#: ../includes/admin/class-pwc-post-types.php:83
+#: ../includes/admin/settings-page/general.php:6
+#: ../includes/editor/init_button.php:120
+#: ../includes/pwc-woo-actions-filters.php:75
+msgid "Configurator"
+msgstr ""
+
+#: ../includes/admin/class-pwc-post-types.php:73
+msgid "New Configurator"
+msgstr ""
+
+#: ../includes/admin/class-pwc-post-types.php:74
+#: ../includes/admin/class-pwc-post-types.php:76
+msgid "Add New Configurator"
+msgstr ""
+
+#: ../includes/admin/class-pwc-post-types.php:75
+msgid "Edit Configurator"
+msgstr ""
+
+#: ../includes/admin/class-pwc-post-types.php:77
+msgid "View Configurator"
+msgstr ""
+
+#: ../includes/admin/class-pwc-post-types.php:78
+msgid "Search Configurator"
+msgstr ""
+
+#: ../includes/admin/class-pwc-post-types.php:79
+msgid "No configurations found"
+msgstr ""
+
+#: ../includes/admin/class-pwc-post-types.php:80
+msgid "All configurators"
+msgstr ""
+
+#: ../includes/admin/class-pwc-post-types.php:81
+msgid "No configurators found in Trash"
+msgstr ""
+
+#: ../includes/admin/settings-page/general.php:11
+msgid "Icon Type"
+msgstr ""
+
+#: ../includes/admin/settings-page/general.php:12
+msgid "Choose icon type here."
+msgstr ""
+
+#: ../includes/admin/settings-page/general.php:17
+msgid "Round"
+msgstr ""
+
+#: ../includes/admin/settings-page/general.php:18
+msgid "Square"
+msgstr ""
+
+#: ../includes/admin/settings-page/general.php:23
+msgid "Icon Width"
+msgstr ""
+
+#: ../includes/admin/settings-page/general.php:24
+msgid "Enter icon width here."
+msgstr ""
+
+#: ../includes/admin/settings-page/general.php:31
+msgid "Icon Height"
+msgstr ""
+
+#: ../includes/admin/settings-page/general.php:32
+msgid "Enter icon height here."
+msgstr ""
+
+#: ../includes/admin/settings-page/license.php:13
+msgid "Active license for automatic update"
+msgstr ""
+
+#: ../includes/admin/settings-page/license.php:22
+msgid "License Key"
+msgstr ""
+
+#: ../includes/admin/settings-page/license.php:26
+msgid "Enter your license key"
+msgstr ""
+
+#: ../includes/admin/settings-page/license.php:51
+msgid "Buy License"
+msgstr ""
+
+#: ../includes/admin/settings-page/license.php:53
+msgid ""
+"If you need another license, Please purchase the license through below this "
+"link."
+msgstr ""
+
+#: ../includes/admin/settings-page/license.php:55
+msgid "Please purchase the license through below this link."
+msgstr ""
+
+#: ../includes/admin/settings-page/license.php:57
+msgid "Buy Product"
+msgstr ""
+
+#: ../includes/admin/updater/class-pwc-plugin-updater.php:210
+#, php-format
+msgid ""
+"There is a new version of %1$s available. %2$sView version %3$s details%4$s."
+msgstr ""
+
+#: ../includes/admin/updater/class-pwc-plugin-updater.php:218
+#, php-format
+msgid ""
+"There is a new version of %1$s available. %2$sView version %3$s details%4$s "
+"or %5$supdate now%6$s."
+msgstr ""
+
+#: ../includes/admin/updater/class-pwc-plugin-updater.php:408
+msgid "You do not have permission to install plugin updates"
+msgstr ""
+
+#: ../includes/admin/updater/class-pwc-plugin-updater.php:408
+msgid "Error"
+msgstr ""
+
+#: ../includes/admin/updater/pwc-update-handler.php:119
+#: ../includes/admin/updater/pwc-update-handler.php:147
+#: ../includes/admin/updater/pwc-update-handler.php:197
+msgid "An error occurred, please try again."
+msgstr ""
+
+#: ../includes/admin/updater/pwc-update-handler.php:126
+#, php-format
+msgid "Your license key expired on %s."
+msgstr ""
+
+#: ../includes/admin/updater/pwc-update-handler.php:131
+msgid "Your license key has been disabled."
+msgstr ""
+
+#: ../includes/admin/updater/pwc-update-handler.php:134
+msgid "Invalid license."
+msgstr ""
+
+#: ../includes/admin/updater/pwc-update-handler.php:138
+msgid "Your license is not active for this URL."
+msgstr ""
+
+#: ../includes/admin/updater/pwc-update-handler.php:141
+#, php-format
+msgid "This appears to be an invalid license key for %s."
+msgstr ""
+
+#: ../includes/admin/updater/pwc-update-handler.php:144
+msgid "Your license key has reached its activation limit."
+msgstr ""
+
+#: ../includes/editor/init_button.php:65
+msgid "Demo Title"
+msgstr ""
+
+#: ../includes/editor/init_button.php:69
+msgid "Insert Shortcode"
+msgstr ""
+
+#: ../includes/editor/init_button.php:78
+#: ../includes/kc/shortcodes/product-config-accordion-control/index.php:20
+msgid "Configurator Accordion Control"
+msgstr ""
+
+#: ../includes/editor/init_button.php:84
+#: ../includes/kc/shortcodes/product-config-cart-form/index.php:20
+msgid "Configurator Cart Form"
+msgstr ""
+
+#: ../includes/editor/init_button.php:90
+#: ../includes/kc/shortcodes/product-config-controls/index.php:20
+msgid "Configurator Controls"
+msgstr ""
+
+#: ../includes/editor/init_button.php:96
+msgid "Configurator Inspiration"
+msgstr ""
+
+#: ../includes/editor/init_button.php:102
+#: ../includes/kc/shortcodes/product-config-preview/index.php:20
+msgid "Configurator Preview"
+msgstr ""
+
+#: ../includes/editor/init_button.php:108
+#: ../includes/kc/shortcodes/product-config-price/index.php:20
+msgid "Configurator Price"
+msgstr ""
+
+#: ../includes/editor/init_button.php:114
+#: ../includes/kc/shortcodes/product-config-share/index.php:20
+msgid "Configurator Share"
+msgstr ""
+
+#: ../includes/editor/init_button.php:135
+msgid "Options Not Set"
+msgstr ""
+
+#: ../includes/editor/init_button.php:137
+msgid "Not set"
+msgstr ""
+
+#: ../includes/editor/shortcodes/pwc_config.php:6
+#: ../includes/editor/shortcodes/pwc_config_accordion_control.php:6
+#: ../includes/editor/shortcodes/pwc_config_cart_form.php:6
+#: ../includes/editor/shortcodes/pwc_config_controls.php:6
+#: ../includes/editor/shortcodes/pwc_config_inspiration.php:6
+#: ../includes/editor/shortcodes/pwc_config_preview.php:6
+#: ../includes/editor/shortcodes/pwc_config_price.php:6
+#: ../includes/editor/shortcodes/pwc_config_share.php:6
+#: ../includes/kc/shortcodes/product-config-accordion-control/index.php:29
+#: ../includes/kc/shortcodes/product-config-cart-form/index.php:29
+#: ../includes/kc/shortcodes/product-config-controls/index.php:29
+#: ../includes/kc/shortcodes/product-config-inspiration/index.php:29
+#: ../includes/kc/shortcodes/product-config-preview/index.php:29
+#: ../includes/kc/shortcodes/product-config-price/index.php:29
+#: ../includes/kc/shortcodes/product-config-share/index.php:29
+#: ../includes/kc/shortcodes/product-config-skin/index.php:29
+#: ../includes/pwc-helper-functions.php:269
+msgid "Choose Configurator"
+msgstr ""
+
+#: ../includes/editor/shortcodes/pwc_config.php:7
+#: ../includes/editor/shortcodes/pwc_config_accordion_control.php:7
+#: ../includes/editor/shortcodes/pwc_config_cart_form.php:7
+#: ../includes/editor/shortcodes/pwc_config_controls.php:7
+#: ../includes/editor/shortcodes/pwc_config_inspiration.php:7
+#: ../includes/editor/shortcodes/pwc_config_preview.php:7
+#: ../includes/editor/shortcodes/pwc_config_price.php:7
+#: ../includes/editor/shortcodes/pwc_config_share.php:7
+#: ../includes/kc/shortcodes/product-config-accordion-control/index.php:31
+#: ../includes/kc/shortcodes/product-config-cart-form/index.php:31
+#: ../includes/kc/shortcodes/product-config-controls/index.php:31
+#: ../includes/kc/shortcodes/product-config-inspiration/index.php:31
+#: ../includes/kc/shortcodes/product-config-preview/index.php:31
+#: ../includes/kc/shortcodes/product-config-price/index.php:31
+#: ../includes/kc/shortcodes/product-config-share/index.php:31
+#: ../includes/kc/shortcodes/product-config-skin/index.php:31
+msgid "Choose Configurtor you want to display"
+msgstr ""
+
+#: ../includes/editor/shortcodes/pwc_config.php:15
+#: ../includes/kc/shortcodes/product-config-skin/index.php:38
+msgid "Style"
+msgstr ""
+
+#: ../includes/editor/shortcodes/pwc_config.php:16
+#: ../includes/kc/shortcodes/product-config-skin/index.php:40
+msgid "Choose style you want to display"
+msgstr ""
+
+#: ../includes/editor/shortcodes/pwc_config.php:24
+#: ../includes/editor/shortcodes/pwc_config_accordion_control.php:15
+#: ../includes/editor/shortcodes/pwc_config_cart_form.php:27
+#: ../includes/editor/shortcodes/pwc_config_controls.php:15
+#: ../includes/editor/shortcodes/pwc_config_inspiration.php:23
+#: ../includes/editor/shortcodes/pwc_config_preview.php:15
+#: ../includes/editor/shortcodes/pwc_config_price.php:31
+#: ../includes/editor/shortcodes/pwc_config_share.php:23
+#: ../includes/kc/shortcodes/product-config-accordion-control/index.php:38
+#: ../includes/kc/shortcodes/product-config-cart-form/index.php:51
+#: ../includes/kc/shortcodes/product-config-controls/index.php:38
+#: ../includes/kc/shortcodes/product-config-inspiration/index.php:51
+#: ../includes/kc/shortcodes/product-config-preview/index.php:38
+#: ../includes/kc/shortcodes/product-config-price/index.php:52
+#: ../includes/kc/shortcodes/product-config-share/index.php:53
+#: ../includes/kc/shortcodes/product-config-skin/index.php:47
+msgid "Extra class name"
+msgstr ""
+
+#: ../includes/editor/shortcodes/pwc_config.php:25
+#: ../includes/editor/shortcodes/pwc_config_accordion_control.php:16
+#: ../includes/editor/shortcodes/pwc_config_cart_form.php:28
+#: ../includes/editor/shortcodes/pwc_config_controls.php:16
+#: ../includes/editor/shortcodes/pwc_config_inspiration.php:24
+#: ../includes/editor/shortcodes/pwc_config_preview.php:16
+#: ../includes/editor/shortcodes/pwc_config_price.php:32
+#: ../includes/editor/shortcodes/pwc_config_share.php:24
+#: ../includes/kc/shortcodes/product-config-accordion-control/index.php:41
+#: ../includes/kc/shortcodes/product-config-cart-form/index.php:54
+#: ../includes/kc/shortcodes/product-config-controls/index.php:41
+#: ../includes/kc/shortcodes/product-config-inspiration/index.php:54
+#: ../includes/kc/shortcodes/product-config-preview/index.php:41
+#: ../includes/kc/shortcodes/product-config-price/index.php:55
+#: ../includes/kc/shortcodes/product-config-share/index.php:56
+#: ../includes/kc/shortcodes/product-config-skin/index.php:50
+msgid ""
+"If you wish to style particular content element differently, please add a "
+"class name to this field and refer to it in your custom CSS file."
+msgstr ""
+
+#: ../includes/editor/shortcodes/pwc_config_cart_form.php:15
+#: ../includes/kc/shortcodes/product-config-cart-form/index.php:39
+msgid "Overlap Button"
+msgstr ""
+
+#: ../includes/editor/shortcodes/pwc_config_cart_form.php:16
+#: ../includes/kc/shortcodes/product-config-cart-form/index.php:41
+msgid "Input overlap to the button"
+msgstr ""
+
+#: ../includes/editor/shortcodes/pwc_config_cart_form.php:20
+#: ../includes/editor/shortcodes/pwc_config_inspiration.php:36
+#: ../includes/editor/shortcodes/pwc_config_inspiration.php:72
+#: ../includes/editor/shortcodes/pwc_config_inspiration.php:84
+#: ../includes/editor/shortcodes/pwc_config_inspiration.php:96
+#: ../includes/editor/shortcodes/pwc_config_inspiration.php:108
+#: ../includes/editor/shortcodes/pwc_config_inspiration.php:120
+#: ../includes/editor/shortcodes/pwc_config_inspiration.php:132
+#: ../includes/editor/shortcodes/pwc_config_preview.php:28
+#: ../includes/editor/shortcodes/pwc_config_preview.php:64
+#: ../includes/editor/shortcodes/pwc_config_preview.php:76
+#: ../includes/editor/shortcodes/pwc_config_preview.php:88
+#: ../includes/editor/shortcodes/pwc_config_preview.php:100
+#: ../includes/editor/shortcodes/pwc_config_preview.php:112
+#: ../includes/editor/shortcodes/pwc_config_preview.php:124
+#: ../includes/editor/shortcodes/pwc_config_preview.php:136
+#: ../includes/kc/shortcodes/product-config-cart-form/index.php:46
+#: ../includes/kc/shortcodes/product-config-inspiration/index.php:67
+#: ../includes/kc/shortcodes/product-config-inspiration/index.php:103
+#: ../includes/kc/shortcodes/product-config-inspiration/index.php:115
+#: ../includes/kc/shortcodes/product-config-inspiration/index.php:127
+#: ../includes/kc/shortcodes/product-config-inspiration/index.php:139
+#: ../includes/kc/shortcodes/product-config-inspiration/index.php:151
+#: ../includes/kc/shortcodes/product-config-inspiration/index.php:163
+#: ../includes/kc/shortcodes/product-config-preview/index.php:54
+#: ../includes/kc/shortcodes/product-config-preview/index.php:90
+#: ../includes/kc/shortcodes/product-config-preview/index.php:102
+#: ../includes/kc/shortcodes/product-config-preview/index.php:114
+#: ../includes/kc/shortcodes/product-config-preview/index.php:126
+#: ../includes/kc/shortcodes/product-config-preview/index.php:138
+#: ../includes/kc/shortcodes/product-config-preview/index.php:150
+#: ../includes/kc/shortcodes/product-config-preview/index.php:162
+msgid "Yes"
+msgstr ""
+
+#: ../includes/editor/shortcodes/pwc_config_cart_form.php:21
+#: ../includes/editor/shortcodes/pwc_config_inspiration.php:37
+#: ../includes/editor/shortcodes/pwc_config_inspiration.php:73
+#: ../includes/editor/shortcodes/pwc_config_inspiration.php:85
+#: ../includes/editor/shortcodes/pwc_config_inspiration.php:97
+#: ../includes/editor/shortcodes/pwc_config_inspiration.php:109
+#: ../includes/editor/shortcodes/pwc_config_inspiration.php:121
+#: ../includes/editor/shortcodes/pwc_config_inspiration.php:133
+#: ../includes/editor/shortcodes/pwc_config_preview.php:29
+#: ../includes/editor/shortcodes/pwc_config_preview.php:65
+#: ../includes/editor/shortcodes/pwc_config_preview.php:77
+#: ../includes/editor/shortcodes/pwc_config_preview.php:89
+#: ../includes/editor/shortcodes/pwc_config_preview.php:101
+#: ../includes/editor/shortcodes/pwc_config_preview.php:113
+#: ../includes/editor/shortcodes/pwc_config_preview.php:125
+#: ../includes/editor/shortcodes/pwc_config_preview.php:137
+#: ../includes/kc/shortcodes/product-config-cart-form/index.php:47
+#: ../includes/kc/shortcodes/product-config-inspiration/index.php:68
+#: ../includes/kc/shortcodes/product-config-inspiration/index.php:104
+#: ../includes/kc/shortcodes/product-config-inspiration/index.php:116
+#: ../includes/kc/shortcodes/product-config-inspiration/index.php:128
+#: ../includes/kc/shortcodes/product-config-inspiration/index.php:140
+#: ../includes/kc/shortcodes/product-config-inspiration/index.php:152
+#: ../includes/kc/shortcodes/product-config-inspiration/index.php:164
+#: ../includes/kc/shortcodes/product-config-preview/index.php:55
+#: ../includes/kc/shortcodes/product-config-preview/index.php:91
+#: ../includes/kc/shortcodes/product-config-preview/index.php:103
+#: ../includes/kc/shortcodes/product-config-preview/index.php:115
+#: ../includes/kc/shortcodes/product-config-preview/index.php:127
+#: ../includes/kc/shortcodes/product-config-preview/index.php:139
+#: ../includes/kc/shortcodes/product-config-preview/index.php:151
+#: ../includes/kc/shortcodes/product-config-preview/index.php:163
+msgid "No"
+msgstr ""
+
+#: ../includes/editor/shortcodes/pwc_config_inspiration.php:15
+#: ../includes/kc/shortcodes/product-config-inspiration/index.php:39
+msgid "Choose Options"
+msgstr ""
+
+#: ../includes/editor/shortcodes/pwc_config_inspiration.php:16
+msgid "Type the options separated with commas{ inspiration,screenshot,reset }"
+msgstr ""
+
+#: ../includes/editor/shortcodes/pwc_config_inspiration.php:31
+#: ../includes/editor/shortcodes/pwc_config_preview.php:23
+#: ../includes/kc/shortcodes/product-config-inspiration/index.php:61
+#: ../includes/kc/shortcodes/product-config-preview/index.php:48
+msgid "Enable autoplay"
+msgstr ""
+
+#: ../includes/editor/shortcodes/pwc_config_inspiration.php:32
+#: ../includes/editor/shortcodes/pwc_config_preview.php:24
+#: ../includes/kc/shortcodes/product-config-inspiration/index.php:62
+#: ../includes/kc/shortcodes/product-config-preview/index.php:49
+msgid "Do you want to enable autoplay"
+msgstr ""
+
+#: ../includes/editor/shortcodes/pwc_config_inspiration.php:43
+#: ../includes/editor/shortcodes/pwc_config_preview.php:35
+#: ../includes/kc/shortcodes/product-config-inspiration/index.php:73
+#: ../includes/kc/shortcodes/product-config-preview/index.php:60
+msgid "Slide Speed"
+msgstr ""
+
+#: ../includes/editor/shortcodes/pwc_config_inspiration.php:44
+#: ../includes/editor/shortcodes/pwc_config_preview.php:36
+#: ../includes/kc/shortcodes/product-config-inspiration/index.php:74
+#: ../includes/kc/shortcodes/product-config-preview/index.php:61
+msgid "Enter the Value in milesecond (Ex: 5000)"
+msgstr ""
+
+#: ../includes/editor/shortcodes/pwc_config_inspiration.php:51
+#: ../includes/editor/shortcodes/pwc_config_preview.php:43
+#: ../includes/kc/shortcodes/product-config-inspiration/index.php:81
+#: ../includes/kc/shortcodes/product-config-preview/index.php:68
+msgid "Slide Margin"
+msgstr ""
+
+#: ../includes/editor/shortcodes/pwc_config_inspiration.php:52
+#: ../includes/editor/shortcodes/pwc_config_inspiration.php:60
+#: ../includes/editor/shortcodes/pwc_config_preview.php:44
+#: ../includes/editor/shortcodes/pwc_config_preview.php:52
+#: ../includes/kc/shortcodes/product-config-inspiration/index.php:82
+#: ../includes/kc/shortcodes/product-config-inspiration/index.php:90
+#: ../includes/kc/shortcodes/product-config-preview/index.php:69
+#: ../includes/kc/shortcodes/product-config-preview/index.php:77
+msgid "Enter the integer value (Ex: 30)"
+msgstr ""
+
+#: ../includes/editor/shortcodes/pwc_config_inspiration.php:59
+#: ../includes/editor/shortcodes/pwc_config_preview.php:51
+#: ../includes/kc/shortcodes/product-config-inspiration/index.php:89
+#: ../includes/kc/shortcodes/product-config-preview/index.php:76
+msgid "Stage Padding"
+msgstr ""
+
+#: ../includes/editor/shortcodes/pwc_config_inspiration.php:67
+#: ../includes/editor/shortcodes/pwc_config_preview.php:59
+#: ../includes/kc/shortcodes/product-config-inspiration/index.php:97
+#: ../includes/kc/shortcodes/product-config-preview/index.php:84
+msgid "Arrow"
+msgstr ""
+
+#: ../includes/editor/shortcodes/pwc_config_inspiration.php:68
+#: ../includes/editor/shortcodes/pwc_config_preview.php:60
+#: ../includes/kc/shortcodes/product-config-inspiration/index.php:98
+#: ../includes/kc/shortcodes/product-config-preview/index.php:85
+msgid "Do you want to display arrows?"
+msgstr ""
+
+#: ../includes/editor/shortcodes/pwc_config_inspiration.php:79
+#: ../includes/editor/shortcodes/pwc_config_preview.php:71
+#: ../includes/kc/shortcodes/product-config-inspiration/index.php:109
+#: ../includes/kc/shortcodes/product-config-preview/index.php:96
+msgid "Pagination"
+msgstr ""
+
+#: ../includes/editor/shortcodes/pwc_config_inspiration.php:80
+#: ../includes/editor/shortcodes/pwc_config_preview.php:72
+#: ../includes/kc/shortcodes/product-config-inspiration/index.php:110
+#: ../includes/kc/shortcodes/product-config-preview/index.php:97
+msgid "Do you want to display pagination dots?"
+msgstr ""
+
+#: ../includes/editor/shortcodes/pwc_config_inspiration.php:91
+#: ../includes/editor/shortcodes/pwc_config_preview.php:95
+#: ../includes/kc/shortcodes/product-config-inspiration/index.php:121
+#: ../includes/kc/shortcodes/product-config-preview/index.php:120
+msgid "Mouse Drag"
+msgstr ""
+
+#: ../includes/editor/shortcodes/pwc_config_inspiration.php:92
+#: ../includes/editor/shortcodes/pwc_config_preview.php:96
+#: ../includes/kc/shortcodes/product-config-inspiration/index.php:122
+#: ../includes/kc/shortcodes/product-config-preview/index.php:121
+msgid "Do you want to change the slide using mouse drag"
+msgstr ""
+
+#: ../includes/editor/shortcodes/pwc_config_inspiration.php:103
+#: ../includes/editor/shortcodes/pwc_config_preview.php:107
+#: ../includes/kc/shortcodes/product-config-inspiration/index.php:133
+#: ../includes/kc/shortcodes/product-config-preview/index.php:132
+msgid "Touch Drag"
+msgstr ""
+
+#: ../includes/editor/shortcodes/pwc_config_inspiration.php:104
+#: ../includes/editor/shortcodes/pwc_config_preview.php:108
+#: ../includes/kc/shortcodes/product-config-inspiration/index.php:134
+#: ../includes/kc/shortcodes/product-config-preview/index.php:133
+msgid "Do you want to change the slide using touch drag(in touch devices)"
+msgstr ""
+
+#: ../includes/editor/shortcodes/pwc_config_inspiration.php:115
+#: ../includes/editor/shortcodes/pwc_config_preview.php:119
+#: ../includes/kc/shortcodes/product-config-inspiration/index.php:145
+#: ../includes/kc/shortcodes/product-config-preview/index.php:144
+msgid "Stop on Hover"
+msgstr ""
+
+#: ../includes/editor/shortcodes/pwc_config_inspiration.php:116
+#: ../includes/editor/shortcodes/pwc_config_preview.php:120
+#: ../includes/kc/shortcodes/product-config-inspiration/index.php:146
+#: ../includes/kc/shortcodes/product-config-preview/index.php:145
+msgid "If the mouse pointer is placed on slider it will pause"
+msgstr ""
+
+#: ../includes/editor/shortcodes/pwc_config_inspiration.php:127
+#: ../includes/editor/shortcodes/pwc_config_preview.php:131
+#: ../includes/kc/shortcodes/product-config-inspiration/index.php:157
+#: ../includes/kc/shortcodes/product-config-preview/index.php:156
+msgid "Auto Height"
+msgstr ""
+
+#: ../includes/editor/shortcodes/pwc_config_inspiration.php:128
+#: ../includes/editor/shortcodes/pwc_config_preview.php:132
+#: ../includes/kc/shortcodes/product-config-inspiration/index.php:158
+msgid "Slider auto height"
+msgstr ""
+
+#: ../includes/editor/shortcodes/pwc_config_preview.php:83
+#: ../includes/kc/shortcodes/product-config-preview/index.php:108
+msgid "Loop"
+msgstr ""
+
+#: ../includes/editor/shortcodes/pwc_config_preview.php:84
+#: ../includes/kc/shortcodes/product-config-preview/index.php:109
+msgid "Inifnity loop. Duplicate last and first items to get loop illusion."
+msgstr ""
+
+#: ../includes/editor/shortcodes/pwc_config_price.php:15
+#: ../includes/kc/shortcodes/product-config-price/index.php:38
+msgid "Total Price Text"
+msgstr ""
+
+#: ../includes/editor/shortcodes/pwc_config_price.php:16
+#: ../includes/kc/shortcodes/product-config-price/index.php:42
+msgid "Type the total price text"
+msgstr ""
+
+#: ../includes/editor/shortcodes/pwc_config_price.php:18
+#: ../includes/kc/shortcodes/product-config-price/index.php:41
+#: ../includes/shortcodes/__class-pwc-config-elements.php:454
+#: ../includes/shortcodes/_element-config-price.php:37
+msgid "Total Price"
+msgstr ""
+
+#: ../includes/editor/shortcodes/pwc_config_price.php:23
+#: ../includes/kc/shortcodes/product-config-price/index.php:45
+msgid "Base Price Text"
+msgstr ""
+
+#: ../includes/editor/shortcodes/pwc_config_price.php:24
+#: ../includes/kc/shortcodes/product-config-price/index.php:49
+msgid "Type the base price text"
+msgstr ""
+
+#: ../includes/editor/shortcodes/pwc_config_share.php:15
+#: ../includes/kc/shortcodes/product-config-share/index.php:38
+msgid "Choose Social Options"
+msgstr ""
+
+#: ../includes/editor/shortcodes/pwc_config_share.php:16
+msgid ""
+"Type the options separated with commas{ facebook,twitter,google-plus,"
+"linkedin,pinterest,copy_to_clipboard }"
+msgstr ""
+
+#: ../includes/kc/class-kc-shortcode-init.php:34
+msgid "Descending Order"
+msgstr ""
+
+#: ../includes/kc/class-kc-shortcode-init.php:35
+msgid "Ascending Order"
+msgstr ""
+
+#: ../includes/kc/class-kc-shortcode-init.php:42
+msgid "Date"
+msgstr ""
+
+#: ../includes/kc/class-kc-shortcode-init.php:43
+msgid "Date Modified"
+msgstr ""
+
+#: ../includes/kc/class-kc-shortcode-init.php:44
+msgid "Rand"
+msgstr ""
+
+#: ../includes/kc/class-kc-shortcode-init.php:45
+msgid "ID"
+msgstr ""
+
+#: ../includes/kc/class-kc-shortcode-init.php:46
+msgid "Title"
+msgstr ""
+
+#: ../includes/kc/class-kc-shortcode-init.php:47
+msgid "Author"
+msgstr ""
+
+#: ../includes/kc/class-kc-shortcode-init.php:48
+msgid "Name"
+msgstr ""
+
+#: ../includes/kc/class-kc-shortcode-init.php:49
+msgid "Parent"
+msgstr ""
+
+#: ../includes/kc/class-kc-shortcode-init.php:50
+msgid "Menu Order"
+msgstr ""
+
+#: ../includes/kc/class-kc-shortcode-init.php:51
+msgid "None"
+msgstr ""
+
+#: ../includes/kc/shortcodes/product-config-accordion-control/index.php:21
+msgid "Display a configurator accordion style control"
+msgstr ""
+
+#: ../includes/kc/shortcodes/product-config-accordion-control/index.php:23
+#: ../includes/kc/shortcodes/product-config-cart-form/index.php:23
+#: ../includes/kc/shortcodes/product-config-controls/index.php:23
+#: ../includes/kc/shortcodes/product-config-inspiration/index.php:23
+#: ../includes/kc/shortcodes/product-config-preview/index.php:23
+#: ../includes/kc/shortcodes/product-config-price/index.php:23
+#: ../includes/kc/shortcodes/product-config-share/index.php:23
+#: ../includes/kc/shortcodes/product-config-skin/index.php:23
+msgid "WP Configurator"
+msgstr ""
+
+#: ../includes/kc/shortcodes/product-config-cart-form/index.php:21
+msgid "Display a configurator cart form"
+msgstr ""
+
+#: ../includes/kc/shortcodes/product-config-controls/index.php:21
+#: ../includes/kc/shortcodes/product-config-share/index.php:21
+msgid "Display a configurator share"
+msgstr ""
+
+#: ../includes/kc/shortcodes/product-config-inspiration/index.php:20
+msgid "Configurator Inspiration/Screenshot/Reset"
+msgstr ""
+
+#: ../includes/kc/shortcodes/product-config-inspiration/index.php:21
+msgid "Display a configurator inspiration, screenshot and reset"
+msgstr ""
+
+#: ../includes/kc/shortcodes/product-config-inspiration/index.php:40
+msgid "Choose the options"
+msgstr ""
+
+#: ../includes/kc/shortcodes/product-config-inspiration/index.php:45
+#: ../includes/shortcodes/__class-pwc-config-elements.php:654
+msgid "Inspiration"
+msgstr ""
+
+#: ../includes/kc/shortcodes/product-config-inspiration/index.php:46
+msgid "Screenshot"
+msgstr ""
+
+#: ../includes/kc/shortcodes/product-config-inspiration/index.php:47
+msgid "Reset"
+msgstr ""
+
+#: ../includes/kc/shortcodes/product-config-preview/index.php:21
+msgid "Display a configurator preview"
+msgstr ""
+
+#: ../includes/kc/shortcodes/product-config-preview/index.php:157
+msgid "slider Auto height"
+msgstr ""
+
+#: ../includes/kc/shortcodes/product-config-price/index.php:21
+msgid "Display a product price"
+msgstr ""
+
+#: ../includes/kc/shortcodes/product-config-share/index.php:39
+msgid "Choose what are the social icons you want to display"
+msgstr ""
+
+#: ../includes/kc/shortcodes/product-config-share/index.php:44
+msgid "Facebook"
+msgstr ""
+
+#: ../includes/kc/shortcodes/product-config-share/index.php:45
+msgid "Twitter"
+msgstr ""
+
+#: ../includes/kc/shortcodes/product-config-share/index.php:46
+msgid "Google Plus"
+msgstr ""
+
+#: ../includes/kc/shortcodes/product-config-share/index.php:47
+msgid "Linkedin"
+msgstr ""
+
+#: ../includes/kc/shortcodes/product-config-share/index.php:48
+msgid "Pinterest"
+msgstr ""
+
+#: ../includes/kc/shortcodes/product-config-share/index.php:49
+msgid "Copy to Clipboard"
+msgstr ""
+
+#: ../includes/kc/shortcodes/product-config-skin/index.php:20
+msgid "Configurator Skin"
+msgstr ""
+
+#: ../includes/kc/shortcodes/product-config-skin/index.php:21
+msgid "Display a configurator"
+msgstr ""
+
+#: ../includes/pwc-helper-functions.php:250
+msgid "Style 1"
+msgstr ""
+
+#: ../includes/pwc-helper-functions.php:251
+msgid "Style 2"
+msgstr ""
+
+#: ../includes/pwc-helper-functions.php:252
+msgid "Accordion Control"
+msgstr ""
+
+#: ../includes/pwc-woo-actions-filters.php:87
+msgid "Configurator Style"
+msgstr ""
+
+#: ../includes/shortcodes/__class-pwc-config-elements.php:656
+#: ../includes/shortcodes/__class-pwc-config-elements.php:756
+msgid "Add New"
+msgstr ""
+
+#: ../includes/shortcodes/__class-pwc-config-elements.php:761
+msgid "Choose Group Name"
+msgstr ""
+
+#: ../includes/shortcodes/__class-pwc-config-elements.php:790
+msgid "Create"
+msgstr ""
+
+#: ../includes/shortcodes/__class-pwc-config-elements.php:791
+#: ../includes/shortcodes/__class-pwc-config-elements.php:817
+msgid "Cancel"
+msgstr ""
+
+#: ../includes/shortcodes/__class-pwc-config-elements.php:798
+#: ../includes/shortcodes/__class-pwc-config-elements.php:816
+msgid "Update"
+msgstr ""
+
+#: ../pwc.php:85
+#, php-format
+msgid ""
+"Hola! Would you like to receive automatic updates and unlock premium "
+"support? Please <a href=\"%s\">activate your copy</a> of Product Woo "
+"Configurator."
+msgstr ""
+
+#: ../pwc.php:214
+msgid ""
+"WP Configurator requires <strong>WooCommerce</strong> to be "
+"installed and activated on your site."
+msgstr ""

@@ -1,0 +1,1245 @@
+.clearfix:after {
+	visibility: hidden;
+	display: block;
+	font-size: 0;
+	content: " ";
+	clear: both;
+	height: 0;
+}
+.clearfix { display: inline-block; }
+
+a:focus {
+	outline: none;
+	color: inherit;
+	box-shadow: none;
+}
+
+img {
+	-webkit-user-select: none;
+	-khtml-user-select: none;
+	-moz-user-select: none;
+	-o-user-select: none;
+	user-select: none;
+}
+
+#pwc-repeatable-field-hidden-structure {
+	display: none;
+}
+
+#pwc-configration-settings .inside{
+	padding: 40px 0;
+	margin: 0px;
+}
+
+#pwc-settings {
+	border-bottom: 4px solid #dbdbdb;
+	position: relative;
+	margin-bottom: 20px;
+}
+
+.pwc-group-field {
+	background: #efedf0;
+}
+
+#pwc-settings .active-layer {
+	background: #f2f2f2;
+	border: 1px solid #0372a9;
+}
+
+.pwc-group-field, .pwc-sub-group-field {
+	clear: both;
+	height: 50px;
+	line-height: 50px;
+	border: 1px solid transparent;
+	border-bottom: 1px dashed #dbdbdb;
+	position: relative;
+}
+
+.pwc-sub-group-title > div, .pwc-group-title > div {
+	width: 50%;
+	float: left;
+	background: #f4f4f4;
+	padding: 10px;
+	box-sizing: border-box;
+	color: #444;
+	font-size: 13px;
+	text-transform: uppercase;
+	letter-spacing: 1px;
+	font-weight: 600;
+}
+
+.pwc-form-field.angle-down-icon, .pwc-form-field.trash-icon, .pwc-form-field.add-icon {
+	float: left;
+	width: 40px;
+	text-align: center;
+	font-size: 16px;
+}
+
+.pwc-form-field.pwc-form-name {
+	float: left;
+	max-width: 210px;
+	-webkit-box-sizing: border-box;
+	-moz-box-sizing: border-box;
+	box-sizing: border-box;
+}
+
+.pwc-form-field.pwc-form-add-remove {
+	position: absolute;
+	border-right: 2px solid #e5e5e5;
+	right: 0;
+}
+
+.pwc-settings-group .pwc-control-inner {
+	float: left;
+	width: 40px;
+	text-align: center;
+	position: relative;
+	height: 50px;
+}
+
+.pwc-form-field.add-icon {
+	width: 40px;
+	text-align: center;
+	border-left: 2px solid #e5e5e5;
+}
+
+.pwc-settings-group .pwc-control-inner.layer-show-hide span, .pwc-settings-group .pwc-control-inner.layer-lock-unlock span {
+	width: 6px;
+	height: 6px;
+	display: inline-block;
+	background: #cecece;
+	border-radius: 50%;
+	position: absolute;
+	top: 50%;
+	left: 0;
+	right: 0;
+	margin: 0 auto;
+	margin-top: -3px;
+}
+
+.pwc-settings-group .pwc-control-inner.layer-show-hide.active span, .pwc-settings-group .pwc-control-inner.layer-lock-unlock.active span {
+	background: none;
+	border: 3px solid #0372a9;
+	margin-top: -6px;
+}
+
+.pwc-settings-group .pwc-control-inner.layer-show-hide {
+	width: 36px;
+}
+
+.pwc-group-field > div.add-flies{
+	width: auto;
+}
+
+.pwc-form-field a {
+	color: #444;
+	text-decoration: none;
+	outline: none;
+}
+
+.pwc-settings-sub-group .pwc-form-field.pwc-form-name {
+	border-left: 8px solid #efedf0;
+}
+
+.pwc-settings-sub-value-group .pwc-form-field.pwc-form-name {
+	border-left: 16px solid #efedf0;
+}
+
+.pwc-settings-sub-value-group .pwc-settings-sub-value-group .pwc-form-field.pwc-form-name {
+	border-left: 24px solid #efedf0;
+}
+
+.pwc-settings-sub-value-group .pwc-settings-sub-value-group .pwc-settings-sub-value-group .pwc-form-field.pwc-form-name {
+	border-left: 32px solid #efedf0;
+}
+
+.pwc-settings-sub-value-group .pwc-settings-sub-value-group .pwc-settings-sub-value-group .pwc-settings-sub-value-group .pwc-form-field.pwc-form-name {
+	border-left: 40px solid #efedf0;
+}
+
+.pwc-settings-sub-value-group .pwc-settings-sub-value-group .pwc-settings-sub-value-group .pwc-settings-sub-value-group .pwc-settings-sub-value-group .pwc-form-field.pwc-form-name {
+	border-left: 48px solid #efedf0;
+}
+
+.pwc-settings-sub-value-group .pwc-settings-sub-value-group .pwc-settings-sub-value-group .pwc-settings-sub-value-group .pwc-settings-sub-value-group .pwc-settings-sub-value-group .pwc-form-field.pwc-form-name {
+	border-left: 56px solid #efedf0;
+}
+
+.pwc-settings-sub-value-group .pwc-settings-sub-value-group .pwc-settings-sub-value-group .pwc-settings-sub-value-group .pwc-settings-sub-value-group .pwc-settings-sub-value-group .pwc-form-field.pwc-form-name {
+	border-left: 64px solid #efedf0;
+}
+
+.pwc-settings-sub-value-group .pwc-settings-sub-value-group .pwc-settings-sub-value-group .pwc-settings-sub-value-group .pwc-settings-sub-value-group .pwc-settings-sub-value-group .pwc-settings-sub-value-group .pwc-form-field.pwc-form-name {
+	border-left: 72px solid #efedf0;
+}
+
+.pwc-settings-sub-value-group .pwc-settings-sub-value-group .pwc-settings-sub-value-group .pwc-settings-sub-value-group .pwc-settings-sub-value-group .pwc-settings-sub-value-group .pwc-settings-sub-value-group .pwc-form-field.pwc-form-name {
+	border-left: 80px solid #efedf0;
+}
+
+.pwc-settings-sub-value-group .pwc-settings-sub-value-group .pwc-settings-sub-value-group .pwc-settings-sub-value-group .pwc-settings-sub-value-group .pwc-settings-sub-value-group .pwc-settings-sub-value-group .pwc-settings-sub-value-group .pwc-form-field.pwc-form-name {
+	border-left: 88px solid #efedf0;
+}
+
+.pwc-settings-sub-value-group .pwc-settings-sub-value-group .pwc-settings-sub-value-group .pwc-settings-sub-value-group .pwc-settings-sub-value-group .pwc-settings-sub-value-group .pwc-settings-sub-value-group .pwc-settings-sub-value-group .pwc-settings-sub-value-group .pwc-form-field.pwc-form-name {
+	border-left: 96px solid #efedf0;
+}
+
+.pwc-settings-sub-value-group .pwc-settings-sub-value-group .pwc-settings-sub-value-group .pwc-settings-sub-value-group .pwc-settings-sub-value-group .pwc-settings-sub-value-group .pwc-settings-sub-value-group .pwc-settings-sub-value-group .pwc-settings-sub-value-group .pwc-settings-sub-value-group .pwc-form-field.pwc-form-name {
+	border-left: 104px solid #efedf0;
+}
+
+.pwc-form-field.pwc-form-name-inner {
+	padding: 0 25px;
+	position: relative;
+}
+
+.pwc-form-field.pwc-form-name-inner input {
+	text-transform: uppercase;
+	margin-left: 10px;
+}
+
+.pwc-form-field.trash-icon {
+	opacity: 0;
+	visibility: hidden;
+}
+
+.pwc-group-field:hover .trash-icon, .pwc-sub-group-field:hover .trash-icon {
+	opacity: 1;
+	visibility: visible;
+}
+
+.pwc-form-name .pwc-name-icon {
+	position: absolute;
+	font-size: 16px;
+	left: 10px;
+	margin-top: 2px;
+}
+
+.angle-down-icon .collapse-values {
+	margin-top: -2px;
+	display: block;
+}
+
+.pwc-sort-asc:before {
+	vertical-align: middle;
+}
+
+.pwc-form-field input {
+	width: 100%;
+	border: none;
+	background:transparent;
+	padding: 7px;
+	border: 0;
+	box-shadow: none;
+	outline: none;
+	max-width: 140px;
+}
+
+.pwc-form-field input:focus {
+	background: #ccc;
+	box-shadow: none;
+	border-radius: 5px;
+}
+
+.pwc-form-field  .selected-image {
+	width: 25px;
+}
+
+.pwc-form-field  .selected-con .selected-image {
+	height: 20px;
+	margin: 11px 4px 0px 4px;
+	overflow: hidden;
+}
+
+.pwc-form-field .selected-con .selected-image .remove {
+	right: 0;
+	top: 0px;
+	width: 15px;
+}
+
+.selected-con .remove-img {
+	color: red;
+	position: absolute;
+	top: 0;
+	right: 0;
+	cursor: pointer;
+}
+
+.pwc-form-field .selected-con .selected-image img {
+	border: none;
+}
+
+.pwc-form-field .select-files {
+	font-size: 14px;
+	margin-top: 2px;
+	display: inline-block;
+	margin-left: 6px;
+}
+
+.pwc-form-field .select-files:focus {
+	box-shadow: none;
+}
+
+.pwc-settings-sub-group-wrapper.collapse, .pwc-settings-sub-value-group-wrapper.collapse {
+	display: none;
+}
+
+.add-btn, .add-btn:hover, .add-btn:focus {
+	background: #0372a9;
+	color: #fff;
+	padding: 10px 20px;
+	display: inline-block;
+	text-decoration: none;
+	text-transform: uppercase;
+	font-size: 12px;
+	margin-right: 15px;
+}
+
+.add-btn i {
+	margin-right: 2px;
+}
+
+
+.delete-btn, .delete-btn:hover, .delete-btn:focus {
+	background: #e22b52;
+	color: #fff;
+	padding: 10px 20px;
+	display: inline-block;
+	text-decoration: none;
+	text-transform: uppercase;
+	font-size: 12px;
+}
+
+.delete-btn i {
+	margin-right: 4px;
+}
+
+#pwc-save-btn {
+	color: #fff;
+	padding: 10px 20px;
+	display: inline-block;
+	text-decoration: none;
+	text-transform: uppercase;
+	font-size: 12px;
+	border: none;
+	border-radius: 0;
+	line-height: 18px;
+	text-shadow: none;
+	box-shadow: none;
+	height: auto;
+	width: auto;
+	float: right;
+}
+
+#pwc-preview {
+	position: relative;
+	height: 800px;
+	background-image: url(../img/transparent.png);
+	background-repeat: repeat;
+	overflow: hidden;
+	border: 3px solid #e6e6e6;
+	margin: 30px 40px 0;
+}
+
+/* 
+#pwc-preview .loading {
+ opacity: 0;
+ visibility: hidden;
+} 
+*/
+
+#pwc-layer-options .options-container .title {
+	margin: 0;
+	color: #666666;
+	font-family: 'Open Sans', sans-serif;
+	font-weight: 700;
+	font-size: 12px;
+	letter-spacing: 1px;
+	text-transform: uppercase;
+	margin-bottom: 6px;
+	padding: 0px;
+}
+
+#pwc-layer-options .options-container .sub-title, #pwc-layer-options .options-container .text-bottom, #pwc-layer-options .checkbox label {
+	font-family: 'Open Sans', sans-serif;
+	font-weight: 500;
+	font-size: 12px;
+	letter-spacing: 1px;
+	color: #c6c6c6;
+}
+
+#pwc-layer-options .checkbox input {
+	height: 20px;
+	width: 20px;
+	border-color: #c1c1c1;
+	outline: none;
+	margin-right: 10px;
+	padding-left: 2px !important;
+	padding-top: 2px !important;
+}
+
+#pwc-layer-options .options-container .text-bottom{
+	text-transform: uppercase;
+	text-align: center;
+}
+
+#pwc-layer-options .options-container .title-set {
+	margin-bottom: 16px;
+}
+
+
+#pwc-layer-options .choose-icon.text-left {
+	max-width: 90px;
+}
+
+#pwc-layer-options #product-image .choose-icon {
+	display: inline-block;
+	margin-right: 20px;
+}
+
+#pwc-layer-options #product-image .choose-icon:last-child {
+	margin-right: 0px;
+}
+
+#pwc-layer-options .options-set {
+    padding-bottom: 50px;
+    margin-bottom: 30px;
+    border-bottom: 2px dotted #dbdbdb;
+    clear: both;
+    display: inline-block;
+    width: calc( 100% - 40px );
+    margin: 40px 40px 0;
+}
+
+#pwc-layer-options .options-set .description {
+    float: left;
+    width: 25%;
+}
+
+#pwc-layer-options .options-set .description textarea {
+	background: #f7f7f7;
+	border: 1px solid #e5e5e5;
+	border-radius: 7px;
+	width: 86%;
+	padding: 7px;
+	outline: none;
+}
+
+#pwc-layer-options .options-set .choose-icon.text-left {
+    max-width: 260px;
+}
+
+#pwc-layer-options .options-set .select-image {
+    float: left;
+    text-decoration: none;
+    position: relative;
+}
+
+#pwc-layer-options .selected-con {
+	float: left;
+	margin-right: 10px;
+}
+
+#pwc-layer-options .options-set select, #pwc-layer-options .options-set input[type="text"] {
+	width: 86%;
+	background: #f7f7f7;
+	border: 1px solid #e5e5e5;	
+	border-radius: 5px;	
+	height: 35px;
+	padding: 0px 10px;
+	box-sizing: border-box;
+	outline: none;
+}
+
+
+#pwc-layer-options .options-set .table-title:first-child {
+    margin-top: -50px !important;
+    margin-bottom: 20px;
+}
+
+#pwc-layer-options .options-set .table-title {
+	padding-left: 20px !important;
+}
+
+
+#pwc-layer-options .options-set-1 .description textarea {
+	background: #f7f7f7;
+	border: 1px solid #e5e5e5;
+	border-radius: 7px;
+	width: 100%;
+	padding: 7px;
+	outline: none;
+}
+
+#pwc-layer-options .options-set-1 .description {
+	width: 390px;
+	max-width: 100%;
+	float: right;
+}
+
+#pwc-layer-options .options-set-1 {
+	padding-bottom: 50px;
+	margin-bottom: 50px;
+	border-bottom: 2px dotted #dbdbdb;
+	clear: both;
+	display: inline-block;
+	width: calc( 100% - 40px );
+	margin: 40px 40px 0;
+}
+
+#pwc-layer-options .options-set-1 > div {
+	float: left;
+}
+
+#pwc-layer-options .options-set-1 .label {
+	clear: both;
+	margin-top: 20px;
+}
+
+#pwc-layer-options .options-set-1 .label input {
+    width: 300px;
+}
+
+#pwc-layer-options .options-set-2 .group {
+	margin-bottom: 20px;
+}
+
+#pwc-layer-options .options-set-2 .group .price input {
+	height: 35px;
+	width: 55px;
+	border-radius: 5px;
+	background: #f7f7f7;
+	border: 1px solid #e5e5e5;
+	padding: 0px 10px;
+	box-sizing: border-box;
+	outline: none;
+	margin-right: 10px;
+}
+
+#pwc-layer-options .options-set-1 > div.icon-set {
+	width: 20%;
+}
+
+#pwc-layer-options .options-set-1 > div:last-child {
+	margin-right: 0px;
+}
+
+#pwc-layer-options .options-set-2 {
+	display: inline-block;
+	width: 100%;
+	margin: 40px 40px 20px;
+}
+
+#pwc-layer-options .options-set-2 .group {
+	float: left;
+	width: 25%;
+}
+
+#pwc-layer-options .options-set-2 .group:nth-child(4n+1) {
+	clear: both;
+}
+
+#pwc-layer-options .options-set .group {
+    float: left;
+    width: 25%;
+    margin: 20px 0 ;
+} 
+
+.options-set .icon-set {
+    float: left;
+    width: 25%;
+}
+
+#pwc-settings-panel .header-elments .title {
+	padding: 0px;
+	font-size: 14px;
+	text-transform: uppercase;
+	font-weight: bold;
+	font-family: 'Open Sans', sans-serif;
+	color: #666666;
+	letter-spacing: 1px;
+	float: left;
+	margin-right: 20px;
+}
+
+#pwc-settings-panel .header-elments .icon-set a {
+	color: #666666;
+	font-size: 15px;
+	margin-right: 14px;
+	text-decoration: none;
+}
+
+#pwc-settings-panel .choose-image-set {
+	margin: 0px 0 30px;
+}
+
+#pwc-settings-panel .choose-set {
+	display: block;
+	clear: both;
+	margin-bottom: 30px;
+}
+
+#pwc-settings-panel .choose-set:last-child {
+	margin-bottom: 0;
+}
+
+#pwc-settings-panel .choose-image .title {
+	width: 195px;
+	max-width: 100%;
+	font-size: 12px;
+	text-transform: uppercase;
+	font-weight: 600;
+	font-family: 'Open Sans', sans-serif;
+	letter-spacing: 1px;
+	color: #bcbcbc;
+	margin: 0;
+	float: left;
+	margin-right: 20px;
+	margin-top: 14px;
+}
+
+#pwc-settings-panel .choose-image-set .choose-image-text {
+	width: 146px;
+	height: 42px;
+	line-height: 42px;
+	background: #0372a9;
+	color: #fff;
+	border-radius: 50px;
+	text-align: center;
+	display: inline-block;
+	max-width: 100%;
+	margin-right: 31px;
+	text-transform: uppercase;
+	font-size: 11px;
+	font-weight: 600;
+	font-family: 'Open Sans', sans-serif;
+	letter-spacing: 1px;
+}
+
+#pwc-settings-panel .choose-image-set .choose-image-text a {
+	color: #fff;
+	display: block;
+	text-decoration: none;
+}
+
+#pwc-settings-panel #pwc-image-options .choose-image textarea {
+	max-width: 690px;
+	border: 1px solid #e5e5e5;
+	border-radius: 5px;
+	background: #f7f7f7;
+	outline: none;
+	width: 100%;
+	height: 160px;
+}
+
+#pwc-settings-panel .layers-container{
+	background: #f7f7f7;
+	display: inline-block;
+	width: 100%;
+	margin-top: 30px;
+}
+
+#pwc-settings-panel .layers-container .title {
+	padding: 0;
+	font-family: 'Open Sans', sans-serif;
+	font-weight: 600;
+	color: #bcbcbc;
+	font-size: 13px;
+	float: left;
+	margin-right: 10px;
+	padding-top: 30px;
+	padding-left: 40px;
+}
+
+#pwc-settings-panel .layers-container .icon-bg {
+	min-width: 36px;
+	height: 36px;
+	background: #e6e6e6;
+	display: inline-block;
+	line-height: 38px;
+	text-align: center;
+	color: #666666;
+	font-size: 13px;
+	border-radius: 4px;
+	margin-right: 10px;
+	font-size: 17px;
+	float: left;
+	position: relative;
+}
+
+#pwc-settings-panel .layers-container .icon-bg.active {
+	background: #fff;
+	box-shadow: 0 0 8px rgb(189, 189, 189);
+}
+
+#pwc-settings-panel .layers-container .icon-bg:last-child {
+	margin-right: 0;
+}
+
+.tool-tips {
+	position: absolute;
+	background: #333333;
+	color: #fff;
+	font-size: 11px;
+	left: -27px;
+	right: 0;
+	margin: 0 auto;
+	top: -40px;
+	width: 80px;
+	padding: 9px 5px;
+	line-height: 1;
+	border-radius: 5px;
+	opacity: 0;
+	visibility: hidden;
+	transition: all ease .3s;
+}
+
+.tool-tips:after {
+	position: absolute;
+	content: '';
+	display: block;
+	width: 0;
+	height: 0;
+	border-top: 5px solid #333333;
+	border-left: 5px solid transparent;
+	border-right: 5px solid transparent;
+	left: 0;
+	right: 0;
+	margin: 0 auto;
+	bottom: -5px;
+}
+
+.icon-bg:hover .tool-tips {
+	opacity: 1;
+	visibility: visible;
+}
+
+.add-edit-tooltip {
+	cursor: pointer;
+}
+
+.icon-bg.add-edit-tooltip .tool-tips {
+	width: 60px;
+	left: -18px;
+}
+
+.icon-bg.delete-tooltip .tool-tips {
+	width: 98px;
+	left: -32px;
+}
+
+#pwc-settings-panel .layers-container .layer-text {
+	padding: 0px 12px;
+	margin-right: 20px;
+	font-size: 13px;
+	width: 150px;
+	max-width: 100%;
+	text-align: left;
+	cursor: default;
+	user-select: none;
+	overflow: hidden;
+	white-space: nowrap;
+}
+
+#pwc-settings-panel .layers-con > div {
+	float: left;
+	padding: 20px;
+	border-right: 1px solid #e6e6e6;
+}
+
+#pwc-settings-panel .layers-con > div:last-child {
+	border-right: 0px;
+}
+
+#pwc-settings-panel .layers-con .choose-img {
+	float: left;
+}
+
+#pwc-settings-panel .layers-con .choose-img select {
+	border: 0;
+	font-weight: 600;
+	text-transform: uppercase;
+	background: none;
+	color: #666666;
+	padding: 0;
+	margin-top: 4px;
+	box-shadow: none;
+	min-width: 200px;
+	float: left;
+	margin-right: 20px;
+}
+
+#pwc-settings-panel .layers-con .choose-img .add-hotspot {
+	float: left;
+}
+
+#pwc-settings-panel .layers-con .choose-img .add-hotspot .icon-bg {
+	margin-right: 0px;
+	background: #0372a9;
+	color: #fff;
+}
+
+#pwc-settings-panel .layers-con .choose-img .add-hotspot.has-hotspot .icon-bg {
+	background: #e22b52;
+}
+
+.add-hotspot.has-hotspot .pwc-plus:before {
+	content: "\32";
+}
+
+.add-hotspot .icon-bg .tool-tips {
+	width: 120px;
+	left: -48px;
+}
+
+.header-elments, .choose-image {
+	padding: 0 40px;
+}
+
+#pwc-settings-panel .layers-con > div#transform-groups {
+	float: right;
+	padding: 0;
+}
+
+#size-groups {
+	float: left;
+	padding: 20px;
+	border-right: 1px solid #e6e6e6;
+}
+
+#align-groups {
+	float: left;
+	padding: 20px 40px 20px 20px;
+}
+
+#pwc-settings-panel .layers-con #size-groups label {
+	font-family: 'Open Sans', sans-serif;
+	font-size: 13px;
+	text-transform: uppercase;
+	color: #bcbcbc;
+	margin-right: 10px;
+}
+
+#pwc-settings-panel .layers-con #size-groups label:last-child {
+	margin-right: 0;
+}
+
+#pwc-settings-panel .layers-con #size-groups input {
+	margin-left: 10px;
+	max-width: 54px;
+	height: 35px;
+	padding-left: 10px;
+	background: #e6e6e6;
+	border: 0px;
+	box-shadow: none;
+	border-radius: 3px;
+	color: #666;
+}
+
+#pwc-settings-panel .layers-con #align-groups .align-left-right, #pwc-settings-panel .layers-con #size-groups .position-size {
+	float: left;
+	margin-right: 20px;
+}
+
+#pwc-settings-panel .layers-con #align-groups .align-top-bottom, #pwc-settings-panel .layers-con #size-groups .size-position {
+	float: left;
+}
+
+/* Controls */
+#pwc-settings-wrap {
+	margin: 40px 40px;
+}
+
+#pwc-settings-inner {
+	float: left;
+	width: 30%;
+	min-width: 430px;
+}
+
+#pwc-layer-options {
+	overflow: hidden;
+}
+
+#pwc-settings-wrap .table-title {
+	background: #f7f7f7;
+	color: #666;
+	text-transform: uppercase;
+	font-family: "Open Sans", arial;
+	font-weight: bold;
+	padding: 16px 20px;
+}
+
+#pwc-settings-wrap #pwc-layer-options .table-title {
+	padding: 16px 40px;
+}
+
+.pwc-layer-controls, .pwc-layer-name, .pwc-layer-add-remove {
+	float: left;
+}
+
+.pwc-layer-add-remove {
+	float: right;
+	border-right: 2px solid #e5e5e5;
+	height: 50px;
+	line-height: 50px;
+}
+
+.pwc-layer-add-remove span:before {
+	line-height: inherit;
+}
+
+.pwc-layer-control-top {
+	height: 50px;
+	line-height: 50px;
+	border-bottom: 4px solid #dbdbdb;
+}
+
+.pwc-layer-controls {
+	border-right: 2px solid #e5e5e5;
+	border-left: 2px solid #e5e5e5;
+}
+
+.pwc-layer-control-top .pwc-control-inner {
+	font-size: 16px;
+	width: 40px;
+	display: inline-block;
+	text-align: center;
+}
+
+.pwc-layer-control-top .pwc-control-inner.layer-show-hide {
+	width: 36px;
+}
+
+.pwc-layer-name {
+	padding: 0 15px;
+	font-size: 16px;
+}
+
+.pwc-layer-add, .pwc-layer-remove {
+	background: #0372a9;
+	color: #fff;
+	width: 30px;
+	height: 30px;
+	display: block;
+	text-align: center;
+	line-height: 30px;
+	float: left;
+	border-radius: 30px;
+	margin-right: 10px;
+	font-size: 14px;
+	margin-top: 10px;
+	display: none;
+}
+
+.pwc-layer-remove {
+	margin-right: 15px;
+	background: #e22b52;
+}
+
+/* shahul */
+.pwc-preview-inner {
+	position: absolute;
+	top: 0;
+	bottom: 0;
+	left: 0;
+	right: 0;
+	margin: auto;
+	overflow: hidden;
+	opacity: 0;
+	visibility: hidden;
+}
+
+.pwc-preview-inner.loading, .pwc-preview-inner.active.loading {
+	opacity: 0;
+	visibility: hidden;
+}
+
+.pwc-preview-inner.active {
+	opacity: 1;
+	visibility: visible;
+}
+
+.pwc-name-icon {
+	cursor: move;
+}
+
+.pwc-preview-imgcon {
+	position: absolute;
+	display: inline-block;
+	border: 1px solid transparent;
+}
+
+.pwc-preview-imgcon.preview-img-hidden, .pwc-hotspot.hotspot-hidden, .hide-fields .size-position, .hide-fields .z-index-field-con {
+	opacity: 0;
+	visibility: hidden;
+}
+
+.pwc-preview-imgcon.active-layer-image {
+	z-index: 999 !important;
+	border: 1px solid #000;
+}
+
+/* hotspot */
+.pwc-hotspot {
+	width: 36px;
+	height: 36px;
+	position: absolute;
+	z-index: 1000;
+	border: 1px solid transparent;
+}
+
+.pwc-hotspot span {
+	display: block;
+	background: #fff;
+	height: 100%;
+	border-radius: 100%;
+	border: 3px solid #4d4d4d;
+	box-sizing: border-box;
+	position: relative;
+}
+
+.pwc-hotspot span:after {
+	content: '';
+	width: 20px;
+	height: 20px;
+	background: #caba9c;
+	position: absolute;
+	border-radius: 100%;
+	left: 0;
+	right: 0;
+	top: 0;
+	bottom: 0;
+	margin: auto;
+}
+
+.pwc-hotspot.active-layer-hotspot {
+	z-index: 9999 !important;
+	border: 1px solid #000;
+}
+
+/* hide metabox header */
+#pwc-configration-settings .postbox-header, #pwc-configration-settings .hndle, #pwc-configration-settings .handlediv.button-link, .post-type-amz_configurator #submitdiv {
+	display: none;
+}
+
+.selected-con {
+	max-width: 90px;
+	position: relative;
+}
+
+.selected-con img {
+	max-width: 100%;
+}
+
+.not-active, .hide-fields #pwc-preview-remove-image, .hide-fields #pwc-preview-lock-unlock {
+	position: relative;
+}
+
+.not-active:after, .hide-fields #pwc-preview-remove-image:after, .hide-fields #pwc-preview-lock-unlock:after {
+	content: '';
+	position: absolute;
+	left: 0;
+	right: 0;
+	top: 0;
+	bottom: 0;
+	background: rgba(238,238,238,0.75);
+	margin: auto;
+}
+
+.not-active .tool-tips {
+	display: none;
+}
+
+.sticky-wrapper {
+	min-height: 77px !important;
+}
+
+.layers-con.stuck {
+	background: #fff;
+	position: fixed;
+	top: 32px;
+	box-shadow: 0px 3px 3px rgba(0, 0, 0, 0.09);
+	z-index: 99999;
+}
+
+@media (max-width: 1890px) {
+
+	#pwc-layer-options .options-set-1 .description {
+		float: left;
+		margin-top: 30px;
+		clear: both;
+	}
+
+	.sticky-wrapper {
+		min-height: 156px !important;
+	}
+
+}
+
+@media (max-width: 1760px) {
+
+	#pwc-settings-panel .layers-con > div#transform-groups {
+		float: left;
+		width: 100%;
+		border-top: 1px solid #e6e6e6;
+	}
+
+	.layers-con {
+		border: 1px solid #e6e6e6;
+		float: left;
+		width: 100%;
+	}
+
+	#pwc-settings-panel .layers-container .title {
+		padding-left: 20px;
+	}
+
+	#align-groups {
+		float: right;
+		padding-right: 20px;
+		border-left: 1px solid #e6e6e6;
+	}
+
+	#pwc-settings-panel .layers-con .choose-img {
+		border-left: 1px solid #e6e6e6;
+		border-right: none;
+		float: right;
+	}	
+
+	#pwc-layer-options .options-set-1 > div.image-set {
+		margin-left: 30px;
+	}
+
+}
+
+
+@media (max-width: 1322px) {
+
+	#pwc-layer-options .options-set-1 > div.image-set {
+		clear: both;
+		margin-top: 30px;
+		margin-left: 0;
+	}
+
+	#pwc-layer-options .options-set-1 > div, #pwc-layer-options .options-set-1 > div.icon-set {
+		float: left;
+		width: 100%;
+	}
+
+}
+
+/* Options Page */
+
+.textfield, .textfield.standard {
+	width: 250px;
+}
+
+.textfield.mini {
+	width: 80px;
+}
+
+.textfield.large {
+	width: 600px;
+}
+
+.pwc-settings-wrap {
+	max-width: 1000px;
+}
+
+.nav-tab-wrapper {
+	margin-bottom: 50px;
+}
+
+.amz-options-wrap {
+	width: 100%;
+}
+
+.amz-options {
+    float: left;
+    margin-bottom: 30px;
+    width: 100%;
+}
+
+.amz-pull-left {
+	width: 300px;
+	float: left;
+}
+
+.amz-pull-right {
+	width: 600px;
+	float: right;
+}
+
+.amz-pull-right .textarea {
+	width: 100%;
+	min-height: 200px;
+}
+
+.submit-btn {
+	clear: both;
+}
+
+span.amz-switch {
+    padding: 10px;
+    background: #fff;
+    border: 1px solid #e3e3e3;
+    font-weight: 500;
+}
+
+span.amz-switch.active {
+    background: #0085ba;
+    color: #fff;
+    box-shadow: inset 0 0 3px rgba(0, 0, 0, 0.1);
+    border: 1px solid #0085ba;
+}
+
+.license-active-status {
+	color: green;
+	text-transform: uppercase;
+	display: block;
+	padding: 0 0 10px;
+	font-weight: bold;
+	font-size: 15px;
+}
+
+/* Views */
+ul.view-list li {
+    display: flex;
+    justify-content: space-between;
+    max-width: 252px;
+    font-size: 14px;
+    margin-bottom: 10px;
+}
+
+ul.view-list li a {
+    text-decoration: none;
+}
+
+ul.view-list {
+    margin-top: 30px;
+}
+
+#pwc-layer-options .options-set:empty {
+    display: none;
+}
+
+#css {
+	width: 600px;
+	float: top;
+	min-height: 250px;
+	overflow: scroll;
+	margin: auto;
+	display: inline-block;
+	background: #f4f4f9;
+	outline: none;
+	font-family: Courier, sans-serif;
+	font-size: 14px;
+}
+
+#code {
+	bottom: 0;
+	position: relative;
+	width: 100%;
+	height: 35em;
+}

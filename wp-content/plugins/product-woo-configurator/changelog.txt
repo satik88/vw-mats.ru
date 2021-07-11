@@ -1,0 +1,23 @@
+*** Change Logs ***
+
+= 1.4.6.5 2021-03-03 =
+* Fix - Issues fixed.
+
+= 1.4.6.4 2021-02-20 =
+* Fix - Issues fixed.
+
+= 1.4.6.3 2020-09-26 =
+* Fix - Mini cart price calculation issue fixed.
+
+= 1.4.6.2 2020-09-22 =
+* Fix - Total price calculation issue fixed.
+
+= 1.4.6.1 2020-09-14 =
+* Fix - `pwc_apply_currency_position` issue fixed.
+
+= 1.4.6 2020-09-11 =
+* Fix - Settings add on logo not uploading.
+* Fix - Layer drag and drop issue fixed in the backend.
+* Fix - Hide control option issue fixed.
+* Tweak - Configurator description now allows HTML tags.
+* Tweak - Product tab `woocommerce_output_product_data_tabs` hook added in the configurator.
