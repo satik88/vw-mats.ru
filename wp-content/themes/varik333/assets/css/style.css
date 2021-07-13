@@ -1,3 +1,4 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@100;300;400;500;700;900&display=swap');
 :root {
   --text-color: #2F3035;
   --main-blue: #1C62CD;
@@ -63,7 +64,7 @@ body {
   align-items: center;
   justify-content: space-between;
   min-height: 122px;
-  font-family: 'SFPro', sans-serif;
+  font-family: 'Roboto', sans-serif;
   font-weight: 700;
 }
 
@@ -91,7 +92,7 @@ body {
   position: relative;
 }
 
-.header__adress::before {
+/* .header__adress::before {
   content: "";
   position: absolute;
   left: 0;
@@ -99,7 +100,7 @@ body {
   width: 30px;
   height: 30px;
   background-image: url('../images/adress-icon.svg');
-}
+} */
 
 .menu-mobile__list {
   width: 243px;
@@ -179,6 +180,7 @@ body {
   background-color: var(--main-grey);
   display: flex;
   align-items: center;
+  font-family: 'Roboto', sans-serif;
   justify-content: space-around;
   min-height: 53px;
 }
@@ -193,10 +195,10 @@ body {
 
 .menu-categories__link {
   transition: all .3s;
-  position: absolute;
+  position: relative;
   padding: 15px 0 14px;
   top: 50%;
-  left: 50%;
+  /* left: 50%; */
   transform: translate(-50%, -50%);
 }
 

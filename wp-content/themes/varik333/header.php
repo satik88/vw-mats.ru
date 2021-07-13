@@ -1,4 +1,5 @@
 <?php
+
 /**
  * The header for our theme
  *
@@ -12,48 +13,62 @@
 ?>
 <!doctype html>
 <html <?php language_attributes(); ?>>
+
 <head>
-	<meta charset="<?php bloginfo( 'charset' ); ?>">
+	<meta charset="<?php bloginfo('charset'); ?>">
 	<meta name="viewport" content="width=device-width, initial-scale=1">
 	<link rel="profile" href="https://gmpg.org/xfn/11">
 
 	<?php wp_head(); ?>
 </head>
 
+
 <body <?php body_class(); ?>>
-<?php wp_body_open(); ?>
-<div id="page" class="site">
-	<a class="skip-link screen-reader-text" href="#primary"><?php esc_html_e( 'Skip to content', 'varik333' ); ?></a>
-
+	<?php wp_body_open(); ?>
 	<header id="masthead" class="site-header">
-		<div class="site-branding">
-			<?php
-			the_custom_logo();
-			if ( is_front_page() && is_home() ) :
-				?>
-				<h1 class="site-title"><a href="<?php echo esc_url( home_url( '/' ) ); ?>" rel="home"><?php bloginfo( 'name' ); ?></a></h1>
-				<?php
-			else :
-				?>
-				<p class="site-title"><a href="<?php echo esc_url( home_url( '/' ) ); ?>" rel="home"><?php bloginfo( 'name' ); ?></a></p>
-				<?php
-			endif;
-			$varik333_description = get_bloginfo( 'description', 'display' );
-			if ( $varik333_description || is_customize_preview() ) :
-				?>
-				<p class="site-description"><?php echo $varik333_description; // phpcs:ignore WordPress.Security.EscapeOutput.OutputNotEscaped ?></p>
-			<?php endif; ?>
-		</div><!-- .site-branding -->
-
-		<nav id="site-navigation" class="main-navigation">
-			<button class="menu-toggle" aria-controls="primary-menu" aria-expanded="false"><?php esc_html_e( 'Primary Menu', 'varik333' ); ?></button>
-			<?php
-			wp_nav_menu(
-				array(
-					'theme_location' => 'menu-1',
-					'menu_id'        => 'primary-menu',
-				)
-			);
-			?>
-		</nav><!-- #site-navigation -->
-	</header><!-- #masthead -->
+		<div class="header__top">
+			<div class="container">
+				<div class="header__top-inner">
+					<nav class="menu">
+						<?php wp_nav_menu(['theme_location' => 'header-menu2',]); ?>
+					</nav>
+					<div class="logo">
+						<a class="logo__img" href="#">
+							<picture>
+								<source srcset="images/logo-mobile.svg" media="(max-width: 380px)">
+								<img src="<?php echo get_template_directory_uri(); ?>/assets/images/logo.svg" alt="">
+							</picture>
+						</a>
+					</div>
+					<div class="header__box">
+						<p class="header__adress">
+							8-800-222-64-33
+						</p>
+						<ul class="user-list">
+							<li class="user-list__item">
+								<a class="user-list__link" href="#">
+									<img src="<?php echo get_template_directory_uri(); ?>/assets/images/heart.svg" alt="">
+								</a>
+							</li>
+							<li class="user-list__item">
+								<a class="user-list__link" href="#">
+									<img src="<?php echo get_template_directory_uri(); ?>/assets/images/user.svg" alt="">
+								</a>
+							</li>
+							<li class="user-list__item">
+								<a class="user-list__link basket" href="#">
+									<img src="<?php echo get_template_directory_uri(); ?>/assets/images/basket.svg" alt="">
+									<p class="basket__num">1</p>
+								</a>
+							</li>
+						</ul>
+					</div>
+				</div>
+			</div>
+		</div>
+		<div class="header__bottom">
+			<div class="container">
+				<?php wp_nav_menu(['theme_location' => 'header-menu',]); ?>
+			</div>
+		</div>
+	</header>
