@@ -33,7 +33,7 @@
 						<?php wp_nav_menu(['theme_location' => 'header-menu2',]); ?>
 					</nav>
 					<div class="logo">
-						<a class="logo__img" href="#">
+						<a class="logo__img" href="">
 							<picture>
 								<source srcset="images/logo-mobile.svg" media="(max-width: 380px)">
 								<img src="<?php echo get_template_directory_uri(); ?>/assets/images/logo.svg" alt="">
