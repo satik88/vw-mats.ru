@@ -15,7 +15,7 @@ html {
   box-sizing: border-box;
 }
 
-a {
+a, a:visited{
   text-decoration: none;
   color: inherit;
 }
@@ -729,6 +729,7 @@ body {
 
 .footer__top {
   padding-top: 43px;
+  font-family: 'Roboto', sans-serif;
 }
 
 .footer__top-title {
@@ -802,6 +803,7 @@ body {
 .footer-list__item {}
 
 .footer__bottom {
+  font-family: 'Roboto', sans-serif;
   padding: 46px 0 22px;
   display: flex;
   justify-content: center;
