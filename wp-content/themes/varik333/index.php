@@ -21,7 +21,8 @@ get_header();
 		<div class="container">
 			<div class="banner-section__inner">
 				<div class="swiper-container banner-section__slider">
-					<div class="swiper-wrapper">
+					<?php echo do_shortcode('[smartslider3 slider="1"]'); ?>
+					<!-- <div class="swiper-wrapper">
 						<a class="swiper-slide" href="#">
 							<img class="banner-section__slider-img" src="<?php echo get_template_directory_uri(); ?>/assets/images/banner-slider.jpg" alt="">
 						</a>
@@ -43,7 +44,7 @@ get_header();
 					</div>
 					<div class="swiper-pagination"></div>
 					<button class="swiper-button-prev"></button>
-					<button class="swiper-button-next"></button>
+					<button class="swiper-button-next"></button> -->
 				</div>
 				<div class="banner-section__item sale-item">
 					<?php echo do_shortcode('[contact-form-7 id="106" title="Формачка" html_class="use-floating-validation-tip"]'); ?>
