@@ -11,7 +11,7 @@
 
 
 
-                                       // СОЗДАЕМ МЕНЮ
+// СОЗДАЕМ МЕНЮ
 add_action(
     'after_setup_theme',
     function () {
@@ -59,7 +59,6 @@ function filter_nav_menu_link_attributes($atts, $item, $args, $depth)
     return $atts;
 }
 
-
 add_action(
     'after_setup_theme',
     function () {
@@ -105,4 +104,30 @@ function filter_nav_menu_link_attributes2($atts, $item, $args, $depth)
         }
     }
     return $atts;
+}
+
+// ВЫВОДИМ КАТЕГОРИИ НА ГЛАВНУЮ
+function get_categories_product($categories_list = "")
+{
+    $get_categories_product = get_terms("product_cat", [
+        "orderby" => "name", // Тип сортировки
+        "order" => "ASC", // Направление сортировки
+        "hide_empty" => 1, // Скрывать пустые. 1 - да, 0 - нет.
+    ]);
+    if (count($get_categories_product) > 0) {
+        $categories_list = '<ul class="categories__inner">';
+        foreach ($get_categories_product as $categories_item) {
+            $categories_item_id = $categories_item->term_id; //category ID
+            $category_thumbnail_id = get_woocommerce_term_meta($categories_item_id, 'thumbnail_id', true);
+            $thumbnail_image_url = wp_get_attachment_url($category_thumbnail_id);
+            $categories_list .= '<a class="categories__item" href="' . esc_url(get_term_link((int)$categories_item->term_id)) . '">
+           <div class="categories__item-info">
+           <h4 class="categories__item-title">' . esc_html($categories_item->name) . '</h4>
+           <img src="' . $thumbnail_image_url . '" alt="">
+         </div>
+                   </a>';
+        }
+        $categories_list .= '</div>';
+    }
+    return $categories_list;
 }

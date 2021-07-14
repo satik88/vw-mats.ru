@@ -52,6 +52,11 @@ get_header();
 			</div>
 		</div>
 	</section>
+	<section class="categories page-section">
+		<div class="container">
+			<?php echo get_categories_product(); ?>
+		</div>
+	</section>
 </main>
 
 <?php
