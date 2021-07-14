@@ -47,7 +47,7 @@ get_header();
 					<button class="swiper-button-next"></button> -->
 				</div>
 				<div class="banner-section__item sale-item">
-					<?php echo do_shortcode('[contact-form-7 id="106" title="Формачка" html_class="use-floating-validation-tip"]'); ?>
+					<?php echo do_shortcode('[contact-form-7 id="881" title="Forma Zakaz Zvonka" html_class="use-floating-validation-tip"]'); ?>
 				</div>
 			</div>
 		</div>
